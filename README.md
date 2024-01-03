@@ -9,4 +9,4 @@
 - 🎓 I have a Bachelor's degree in Computer Science from the University of Sherbrooke.
 - 🌱 I’m currently learning on pentesting with the try hack me website and angular for my current employment.
 - 💞️ I’m looking to collaborate on project where I learned something new that are usefull for the majority.
-- 📫 You can reach me on my [linked in account ->](https://www.linkedin.com/in/michael-labrecque-4418551b6)
+- 📫 You can reach me on my [linked in account](https://www.linkedin.com/in/michael-labrecque-4418551b6)
