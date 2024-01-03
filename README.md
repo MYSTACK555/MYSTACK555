@@ -5,7 +5,8 @@
 ![MYSTACK555's GitHub stats](https://github-readme-stats.vercel.app/api?username=MYSTACK555&show_icons=true&theme=shadow_red)
 
 - 👋 Hi, I’m @MYSTACK555
-- 👀 I’m interested in CyberSecurity, Web developpement and new technologies.
-- 🌱 I’m currently learning on pentesting and I am finishing a bachelor's degree at the University of Sherbrooke in computer science.
+- 👀 I’m interested in CyberSecurity, Web developpement, Cloud and new technologies.
+- 🎓 I have a Bachelor's degree in Computer Science from the University of Sherbrooke.
+- 🌱 I’m currently learning on pentesting with the try hack me website and angular for my current employment.
 - 💞️ I’m looking to collaborate on project where I learned something new that are usefull for the majority.
-- 📫 You can reach me on my linked in account -> https://www.linkedin.com/in/michael-labrecque-4418551b6
+- 📫 You can reach me on my [linked in account ->](https://www.linkedin.com/in/michael-labrecque-4418551b6)
